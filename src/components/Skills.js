@@ -13,11 +13,11 @@ const Skills = () => {
         <div>
             <h2 className='text-5xl font-bold'>What I Do ?</h2>
             <div>
-                <div class="hero min-h-screen bg-teal-100">
-                    <div class="hero-content flex-col lg:flex-row">
-                        <img src={manStandingWithTable} class="w-6/12 mr-24  rounded-lg " />
+                <div className="hero min-h-screen bg-teal-100">
+                    <div className="hero-content flex-col lg:flex-row">
+                        <img src={manStandingWithTable} className="w-6/12 mr-24  rounded-lg " />
                         <div>
-                            <h1 class="text-3xl font-semibold text-left pb-12">Full Stack Development!</h1>
+                            <h1 className="text-3xl font-semibold text-left pb-12">Full Stack Development!</h1>
                             <div className='flex  w-24'>
                                 <img src={html5} alt="" className='w-24 h-24' />
                                 <img src={css3} alt="" className='w-24 h-24' />

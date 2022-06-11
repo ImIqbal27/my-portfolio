@@ -1,10 +1,9 @@
 import React from 'react';
-import Navbar from './Navbar';
 
 const Blogs = () => {
     return (
-        <div className='bg-teal-100 h-full'>
-            <h1 className='text-3xl'>Coming sooon...</h1>
+        <div className='bg-teal-100 hero min-h-screen '>
+            <h1 className='text-3xl'>Coming soooooon...</h1>
         </div >
     );
 };

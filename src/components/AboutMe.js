@@ -18,7 +18,7 @@ const AboutMe = () => {
                 <p>Call: +880 1834093013</p>
                 <p>Website: <a href={'https://iqbal-hasan-portfolio.web.app/'} >https://iqbal-hasan-portfolio.web.app </a></p>
 
-                {/* <button class="btn btn-outline    ">
+                {/* <button className="btn btn-outline    ">
                     <a href={'https://www.facebook.com/iamiqbal27/'} > Contact With Me</a>
                 </button> */}
             </div>
