@@ -1,3 +1,5 @@
+import { faPaperPlane, faStar } from '@fortawesome/free-regular-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 
 const Contact = () => {
@@ -25,7 +27,8 @@ const Contact = () => {
                         placeholder='Your message'
                         rows={6}
                     ></textarea>
-                    <button type="submit" className="btn btn-accent-900 w-96">Send</button>
+
+                    <button type="submit" className="btn btn-accent-900 w-96"> <FontAwesomeIcon icon={faPaperPlane} className='pr-3'></FontAwesomeIcon> Send</button>
                 </div>
 
 
