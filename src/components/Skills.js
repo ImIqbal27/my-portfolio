@@ -7,7 +7,7 @@ import javascript from '../images/javascript.png';
 import nodejs from '../images/nodejs.png';
 import mongodb from '../images/mongodb.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBurst} from '@fortawesome/free-solid-svg-icons';
+import { faBurst } from '@fortawesome/free-solid-svg-icons';
 
 
 const Skills = () => {
@@ -20,7 +20,7 @@ const Skills = () => {
                         <img src={manStandingWithTable} className="w-6/12 mr-24  rounded-lg " />
                         <div>
                             <h1 className="text-3xl font-semibold text-left pb-12">MERN Stack Development!</h1>
-                            <div className='flex  w-24 pb-5'>
+                            <div className='flex  pb-5'>
                                 <img src={html5} alt="" className='w-24 h-24' />
                                 <img src={css3} alt="" className='w-24 h-24' />
                                 <img src={tailwind} alt="" className='w-24  h-24' />
